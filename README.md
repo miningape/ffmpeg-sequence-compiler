@@ -4,7 +4,7 @@
 
 If you are on Mac / Linux you can use the `run.sh` script to set up the environment, download dependencies (PySide6) and run the application.
 
-Otherwise you will need to install dependencies using `pip install -r requirements.txt` (or `pip install PySide6`) and run the application using `python main.py`. Optionally: use `python -m venv ...` to create a virtual environment.
+Otherwise you will need to install dependencies using `pip install -r requirements.txt` (or `pip install PySide6`) and run the application using `python main.py`. Optionally: use `python -m venv ...` to create a virtual environment. Make sure you have `ffmpeg` available in your path!
 
 ## Requirements
 
